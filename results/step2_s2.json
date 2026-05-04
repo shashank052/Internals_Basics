@@ -1,0 +1,13 @@
+{
+    "search_type": "grid",
+    "n_folds": 3,
+    "total_trials": 18,
+    "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 10,
+        "n_estimators": 50
+    },
+    "best_mae": 0.03285686599137107,
+    "best_cv_mae": 0.03285686599137107,
+    "parent_run_name": "tuning-copilotbench"
+}

@@ -1,0 +1,20 @@
+{
+    "experiment_name": "copilotbench-suggestion-accept-rate",
+    "models": [
+        {
+            "name": "SVR",
+            "mae": 0.24681887032635727,
+            "rmse": 0.28698886279507807,
+            "r2": 0.08388272637021532
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 0.09870943224652935,
+            "rmse": 0.1116962536838358,
+            "r2": 0.8612291656989255
+        }
+    ],
+    "best_model": "GradientBoosting",
+    "best_metric_name": "rmse",
+    "best_metric_value": 0.1116962536838358
+}

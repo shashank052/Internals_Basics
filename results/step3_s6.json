@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "copilotbench-suggestion-accept-rate-predictor",
+    "version": 1,
+    "run_id": "dummy_run_id",
+    "source_metric": "rmse",
+    "source_metric_value": 0.0
+}
